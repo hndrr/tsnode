@@ -4,6 +4,7 @@ import fs from 'fs';
 let server = http.createServer(getFromCrient);
 
 function getFromCrient(request: any, response: any): void {
+    //非同期処理
     fs.readFile('dist/server.html', 'UTF-8',
         (error, data) => {
             response.writeHead(200, { 'Content-Type': 'text/html' });
