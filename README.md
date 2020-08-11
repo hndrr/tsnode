@@ -1,5 +1,5 @@
 # tsnode
-N予備校サーバーサイドプログラミング入門 + TypeScript + etc
+Node.js + TypeScript + etc
 
 ## 参考
 - TypeScript + Node.js プロジェクトのはじめかた2019
