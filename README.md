@@ -19,6 +19,8 @@ N予備校サーバーサイドプログラミング入門 + TypeScript + etc
   - https://book.mynavi.jp/ec/products/detail/id=24927
 
 ### TypeScript
+- TypeScript Deep Dive 日本語版
+  - https://typescript-jp.gitbook.io/deep-dive/
 - プログラミングTypeScript――スケールするJavaScriptアプリケーション開発
   - https://www.oreilly.co.jp/books/9784873119045/
 - 実践TypeScript BFFとNext.js&Nuxt.jsの型定義
