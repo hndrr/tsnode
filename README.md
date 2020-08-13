@@ -9,6 +9,8 @@ Node.js + TypeScript + etc
 - N予備校サーバーサイドプログラミング入門
   - https://www.nnn.ed.nico/courses/497/chapters/6890
   - https://www.nnn.ed.nico/courses/668/chapters/9516
+- 入門Node.jsプログラミング
+  - https://www.shoeisha.co.jp/book/detail/9784798158624
 - Node.js超入門 第3版
   - https://www.shuwasystem.co.jp/book/9784798062433.html
 - レベルアップNode.js (技術の泉シリーズ（NextPublishing）
